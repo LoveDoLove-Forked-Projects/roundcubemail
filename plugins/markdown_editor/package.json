@@ -13,8 +13,8 @@
         "codemirror-markdown-commands": "^0.1.0",
         "less": "^4.4.1",
         "less-plugin-clean-css": "^1.6.0",
-        "markdown-it": "^14.1.0",
-        "rollup": "^4.45.1"
+        "markdown-it": "^14.1.1",
+        "rollup": "^4.59.0"
     },
     "devDependencies": {
         "rollup-plugin-bundle-stats": "^4.21.3"
