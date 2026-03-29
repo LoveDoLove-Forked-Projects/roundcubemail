@@ -9,7 +9,7 @@
         "@fsegurai/codemirror-theme-material-dark": "^6.2.2",
         "@fsegurai/codemirror-theme-material-light": "^6.2.2",
         "@rollup/plugin-node-resolve": "^16.0.1",
-        "@rollup/plugin-terser": "^0.4.4",
+        "@rollup/plugin-terser": "^1.0.0",
         "codemirror-markdown-commands": "^0.1.0",
         "less": "^4.4.1",
         "less-plugin-clean-css": "^1.6.0",
